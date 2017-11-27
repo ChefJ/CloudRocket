@@ -15,7 +15,7 @@
         <TextBox Margin="64,0,0,10" 
                  Name="Login" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="120" VerticalContentAlignment="Center" Grid.Row="1">C</TextBox>
         <TextBox Name="serverIP" 
-                 Margin="196,0,0,10" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="30" Width="95" Grid.Row="1">0.0.0.0</TextBox>
+                 Margin="196,0,0,10" VerticalContentAlignment="Center" HorizontalAlignment="Left" VerticalAlignment="Bottom" Height="30" Width="95" Grid.Row="1">0.0.0.2</TextBox>
         <Button Margin="296,0,0,10" 
                 Name="ConnectBtn" 
                 Click="ConnectBtn_Click" Height="30" HorizontalAlignment="Left" VerticalAlignment="Bottom" Width="60" Grid.Row="1">Go!</Button>
